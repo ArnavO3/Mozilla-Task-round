@@ -1,0 +1,8 @@
+body{
+  background-color: #fffdfc;
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  opacity: 0;
+  animation: fadeIn 1s 1s;
+  animation-fill-mode: forwards;
+}
